@@ -21,7 +21,7 @@ Next follow [this link](https://classroom.github.com/assignment-invitations/2997
 
 See if you can clone the repositioy using the Desktop App, and then try to "commit" any single file to the Github repository I have provided.
 
-A successful commit will show up on your Github Page.
+A successful COMMIT and PUSH will show up on your Github Page.
 
 Give it a try... if you are up for the challenge! 
 
